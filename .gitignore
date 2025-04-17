@@ -1,0 +1,18 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# PyInstaller
+# build artifacts
+build/
+dist/
+*.spec
+
+# VS Code settings
+.vscode/
+
+# Arquivos do Windows
+Thumbs.db
+Desktop.ini
