@@ -23,7 +23,6 @@ python biscoito.py
 
 Autor
 
-Feito com 💙 por Ezequias — porque todos nós precisamos de uma palavra amiga de vez em quando.
-
+Todos precisam de uma palavra amiga;
 
 ---
